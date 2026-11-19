@@ -1,0 +1,12 @@
+[
+  {
+    "summary": "Fictional Bluebird design review",
+    "start": {"dateTime": "2026-11-19T10:00:00-08:00"},
+    "end": {"dateTime": "2026-11-19T11:00:00-08:00"}
+  },
+  {
+    "summary": "Fictional Bluebird lab review",
+    "start": {"dateTime": "2026-11-19T10:30:00-08:00"},
+    "end": {"dateTime": "2026-11-19T11:30:00-08:00"}
+  }
+]
